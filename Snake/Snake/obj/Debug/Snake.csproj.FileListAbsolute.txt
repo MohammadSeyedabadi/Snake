@@ -1,0 +1,6 @@
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Snake\Snake\Snake\bin\Debug\Snake.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Snake\Snake\Snake\obj\Debug\Snake.exe
+D:\دانشگاه\سال اول\مبانی حاجی بگلو\gitgub practice\uni star\Snake\Snake\Snake\obj\Debug\Snake.pdb
